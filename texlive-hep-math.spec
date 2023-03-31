@@ -1,6 +1,6 @@
 Name:		texlive-hep-math
 Version:	64905
-Release:	1
+Release:	2
 Summary:	Extended math macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-math
