@@ -1,5 +1,5 @@
 Name:		texlive-hep-math
-Version:	67632
+Version:	72984
 Release:	1
 Summary:	Extended math macros
 Group:		Publishing
